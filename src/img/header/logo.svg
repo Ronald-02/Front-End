@@ -1,0 +1,18 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .pulse {
+      animation: pulsing 1.5s infinite;
+    }
+
+    @keyframes pulsing {
+      0%, 100% {
+        transform: scale(1);
+      }
+      50% {
+        transform: scale(1.1);
+      }
+    }
+  </style>
+  <rect width="100" height="100" rx="20" ry="20" fill="black"/>
+  <text x="50%" y="50%" fill="white" font-size="60" font-family="Diplomata SC, serif" dy=".35em" text-anchor="middle" class="pulse">R</text>
+</svg>
