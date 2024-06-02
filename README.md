@@ -49,3 +49,11 @@ Nesse projeto, apliquei os seguintes pontos:
   
 + Lib JS - Traduzindo por português, uma biblioteca JavaScript é uma biblioteca de código JavaScript pré-escrito que permite o desenvolvimento mais fácil de aplicativos baseados em JavaScript <a href="https://scrollrevealjs.org">Scroll Reveal</a>.
 
+  ---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE1&size=35&center=true&vCenter=true&width=1000&lines=Criado+Por+Ronald+Da+Silva👨🏽‍💻;)](https://git.io/typing-svg)
+
+  
+## 📝 Licença
+
+[MIT License](./LICENSE).
