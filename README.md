@@ -2,7 +2,8 @@
 
 <h1 align="center">Portfolio - Front-End</h1>
 
-https://github.com/Ronald-02/Front-End-Developer/assets/112557309/b91cc832-f9aa-4ebf-bbb0-4e7cf23c11bd
+![IMG_5906](https://github.com/Ronald-02/Front-End/assets/112557309/62e23926-6109-41d1-a025-8d7e1283fb22)
+
 
 <a href="https://portfolioronald.vercel.app/">![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=35&center=true&vCenter=true&width=1000&lines=Disponível+Aqui;)
 
