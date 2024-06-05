@@ -38,7 +38,7 @@ const Works = () => {
             className='flex flex-col lg:items-center'
           >
             <h1 className='h1 p-5 '>
-              Works
+              Work
             </h1>
             <p className='mb-12 max-w-sm'>
             Here are some of my projects that I developed as a form of knowledge and skills.
