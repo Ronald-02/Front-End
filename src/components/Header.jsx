@@ -24,7 +24,7 @@ const Header = () => {
         <nav className='hidden xl:flex gap-x-12 font-semibold'>
           <Link to={'/'} className='text-[#696c6d] hover:text-primary transition'>Home</Link>
           <Link to={'/about'} className='text-[#696c6d] hover:text-primary transition'>About</Link>
-          <Link to={'/works'} className='text-[#696c6d] hover:text-primary transition'>Works</Link>
+          <Link to={'/works'} className='text-[#696c6d] hover:text-primary transition'>Work</Link>
           <Link to={'/contact'} className='text-[#696c6d] hover:text-primary transition'>Contact</Link>
         </nav>
       </div>
