@@ -21,7 +21,7 @@ const AnimRoutes = () => {
       <Routes key={location.pathname} location={location}>
         <Route path='/' element={<Home />} />
         <Route path='/about' element={<About />} />
-        <Route path='/works' element={<Works />} />
+        <Route path='/works' element={<Work />} />
         <Route path='/contact' element={<Contact />} />
       </Routes>
     </AnimatePresence>
