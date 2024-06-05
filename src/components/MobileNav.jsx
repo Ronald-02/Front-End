@@ -58,7 +58,7 @@ const MobileNav = () => {
           </li>
           <li>
             <Link to='/works'>
-              Works
+              Work
             </Link>
           </li>
           <li>
