@@ -39,7 +39,7 @@ const About = () => {
             <h1 className='h1 text-center text-7xl'>About Me</h1>
             <p className=' mb-12 text-ellipsis'>
               <br/>
-            I'm Ronald, a 22-year-old who currently has a skill with technology since 
+            I'm Ronald, a 23-year-old who currently has a skill with technology since 
             he was a child and who seeks to deepen his knowledge even more. With a background in Full-Stack Developer, especially more in Front-End, responsible for developing responsive web pages and systems with a well-defined layout.
               <br />
               <br />
