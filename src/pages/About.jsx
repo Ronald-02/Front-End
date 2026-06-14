@@ -38,15 +38,15 @@ const About = () => {
           >
             <h1 className='h1 text-center text-7xl'>About Me</h1>
             <p className=' mb-12 text-ellipsis'>
-              <br/>
-            I'm Ronald, a 24-year-old who currently has a skill with technology since 
-            he was a child and who seeks to deepen his knowledge even more. With a background in Full-Stack Developer, especially more in Front-End, responsible for developing responsive web pages and systems with a well-defined layout.
-              <br />
-              <br />
-              Ronald seeks, in this long trajectory, improvement to stand out 
-              professionally in this technological field. However, be open to home-office 
-              and freelance work opportunities. He is fluent in English, Spanish and
-              French. Technical skills like Hard Skills and interpersonal skills like Soft Skills and Tech Lead. Certificates of immersive courses, networking in practice and feedbacks with great results.
+            <br/>
+I'm Ronald, a technology enthusiast driven by continuous learning, innovation, and new challenges. My journey in the tech field has been guided by curiosity, dedication, and the desire to create impactful digital solutions. With a background in Full-Stack Development and a stronger focus on Front-End technologies, I specialize in building responsive web applications, intuitive user interfaces, and well-structured systems that deliver excellent user experiences.
+
+My trajectory is marked by a constant pursuit of growth, knowledge, and professional excellence. I am passionate about transforming ideas into practical solutions, solving real-world problems through technology, and continuously improving my technical and interpersonal skills. I value discipline, commitment, and lifelong learning as essential pillars for both personal and professional development.
+
+<br />
+<br />
+
+Throughout this journey, I have been committed to expanding my expertise, staying up to date with emerging technologies, and developing projects that reflect my passion for innovation. I am open to remote and freelance opportunities, where I can contribute, learn, and grow alongside talented professionals. My portfolio represents not only my technical abilities but also my dedication to building a solid career and creating meaningful impact through technology.
             </p>
             <Link to={'/works'} className='btn'>View my works</Link>
           </motion.div>
