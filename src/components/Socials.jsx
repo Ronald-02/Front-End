@@ -13,7 +13,7 @@ const Socials = () => {
           </a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/ronald-da-silva-dev" rel='noopener'>
+          <a href="https://www.linkedin.com/in/ronald-da-silva-dev" rel='noopener'>
             <ImLinkedin />
           </a>
         </li>
