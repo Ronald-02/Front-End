@@ -39,14 +39,13 @@ const About = () => {
             <h1 className='h1 text-center text-7xl'>About Me</h1>
             <p className=' mb-12 text-ellipsis'>
             <br/>
-I'm Ronald, a technology enthusiast driven by continuous learning, innovation, and new challenges. My journey in the tech field has been guided by curiosity, dedication, and the desire to create impactful digital solutions. With a background in Full-Stack Development and a stronger focus on Front-End technologies, I specialize in building responsive web applications, intuitive user interfaces, and well-structured systems that deliver excellent user experiences.
-
-My trajectory is marked by a constant pursuit of growth, knowledge, and professional excellence. I am passionate about transforming ideas into practical solutions, solving real-world problems through technology, and continuously improving my technical and interpersonal skills. I value discipline, commitment, and lifelong learning as essential pillars for both personal and professional development.
+<br/>
+I'm Ronald, a Full-Stack Developer passionate about technology, innovation, and continuous learning. I focus on building responsive applications, creating efficient solutions, and turning ideas into impactful digital experiences.
 
 <br />
 <br />
 
-Throughout this journey, I have been committed to expanding my expertise, staying up to date with emerging technologies, and developing projects that reflect my passion for innovation. I am open to remote and freelance opportunities, where I can contribute, learn, and grow alongside talented professionals. My portfolio represents not only my technical abilities but also my dedication to building a solid career and creating meaningful impact through technology.
+Always seeking new challenges, I strive to grow professionally and contribute through technology.
             </p>
             <Link to={'/works'} className='btn'>View my works</Link>
           </motion.div>
